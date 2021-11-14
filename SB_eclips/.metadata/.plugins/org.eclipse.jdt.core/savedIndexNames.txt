@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\Auto_aprendizado_070921\SB_eclips\.metadata\.plugins\org.eclipse.jdt.core

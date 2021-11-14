@@ -1,0 +1,5 @@
+
+-- this query create a project complet and routing navegation page
+ng new nome_project --routing 
+-- this query create a siples project no add to routing
+ng new nome_project
